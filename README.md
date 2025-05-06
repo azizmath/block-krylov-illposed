@@ -9,7 +9,7 @@ This repository contains MATLAB implementations supporting the paper:
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This work explores how block Krylov subspace methods — specifically the **Block Lanczos** and **Block Golub–Kahan** algorithms — can be used to solve large-scale discrete ill-posed problems with multiple right-hand sides. These problems arise in applications like tomography, signal processing, and inverse heat conduction.
 
@@ -17,7 +17,7 @@ We show how these methods perform compared to traditional techniques, and includ
 
 ---
 
-## 🧩 Dependency: IR Tools
+##  Dependency: IR Tools
 
 This project uses test problems and solvers from the [IR Tools MATLAB package](https://github.com/jnagy1/IRtools) by Silvia Gazzola, P. C. Hansen, and James G. Nagy.
 
@@ -27,7 +27,7 @@ To use:
 
 ---
 
-## 💻 Repository Contents
+##  Repository Contents
 
 | File / Folder | Description |
 |---------------|-------------|
@@ -40,7 +40,7 @@ To use:
 
 ---
 
-## ▶️ Running Examples
+##  Running Examples
 
 To run a test using Block Golub–Kahan:
 
@@ -59,7 +59,7 @@ Make sure IR Tools is added to your MATLAB path.
 
 ---
 
-## 📖 Citation
+## Citation
 
 If you use this code, please cite:
 
@@ -78,7 +78,7 @@ If you use this code, please cite:
 
 ---
 
-## 📫 Contact
+## Contact
 
 For questions, please reach out:  
 📧 alqahtani.math@gmail.com  
